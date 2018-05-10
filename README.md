@@ -1,2 +1,2 @@
-# SAMPLE-Parcel
-"hola mundo" con Parsel
+## Requisitos
+ - [NodeJS / NPM](https://nodejs.org) (versión 8.0 o superior).
