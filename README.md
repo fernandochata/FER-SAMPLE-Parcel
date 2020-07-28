@@ -1,4 +1,4 @@
-### [Parcel JS](https://es.parceljs.org/)
+### Parcel JS [ver documentación](https://es.parceljs.org/)
 
 Herramienta para automatizar la creacion de bundlers (empaquetado de archivos), traspilar de un estandar a otro, minificar la calidad a imagenes y archivos.
 
